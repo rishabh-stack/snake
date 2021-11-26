@@ -14,7 +14,7 @@ OR
 
 * Open Terminal or CMD, then Type ```pip install -r <path to the game>```
 
-**Example:** ```pip install -r c://Users/Downloads/SnakeByRohan/requirements.txt```
+**Example:** ```pip install -r c://Users/Downloads/SnakeByRishabh/requirements.txt```
 
 ---
 
